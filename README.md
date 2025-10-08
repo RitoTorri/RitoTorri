@@ -1,11 +1,11 @@
-<h3>¡Hola, soy Jesús Cortez! 🫶</h3>
+<h3>¡Hola, soy Jesús Cortez!</h3>
 <picture> 
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
 <p>Estudiante de Informática en el <a href="http://www.iujobarquisimeto.edu.ve/">Instituto Universitario Jesús Obrero</a>. Busco mejorar día con día en el área del desarrollo y planificación de software.</p>
 
-<h3>🧑‍💻 Sobre Mí</h3>
+<h3>💼 Sobre Mí</h3>
 <p>Soy un desarrollador backend enfocado en crear APIs y sistemas de software robustos y 100% confiables que se adapten a los requerimientos y necesidades de los clientes.</p>
 <p>🌱 <strong>Aprendiendo:</strong> Go, Arquitecturas de Microservicios<br>
 💡 <strong>Intereses:</strong> APIs REST, Bases de Datos, Sistemas Escalables</p>
