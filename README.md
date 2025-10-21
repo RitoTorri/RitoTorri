@@ -7,7 +7,6 @@
 
 <h3>💼 Sobre Mí</h3>
 <p>Soy un desarrollador backend enfocado en crear APIs y sistemas de software robustos y 100% confiables que se adapten a los requerimientos y necesidades de los clientes.</p>
-<p>🌱 <strong>Aprendiendo:</strong> Go.
  
 💡 <strong>Intereses:</strong> APIs REST, Bases de Datos, Sistemas Escalables</p>
 
@@ -16,7 +15,7 @@
 
 | Lenguajes | Frameworks & ORM | Bases de Datos | Herramientas |
 |-----------|------------------|----------------|--------------|
-| <img src="https://skillicons.dev/icons?i=php,nodejs,go,js,cs" height="48" /> | <img src="https://skillicons.dev/icons?i=express,prisma" height="48" /> | <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="48" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" /> <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" width="48" /> |
+| <img src="https://skillicons.dev/icons?i=php,nodejs,js,cs" height="48" /> | <img src="https://skillicons.dev/icons?i=express,prisma" height="48" /> | <img src="https://skillicons.dev/icons?i=mysql,postgresql" height="48" /> | <img src="https://skillicons.dev/icons?i=git,github,vscode" height="48" /> <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" width="48" /> |
 
 </div>
 
