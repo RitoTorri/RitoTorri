@@ -27,18 +27,6 @@
 
 </div>
 
-<h3>🚀 Mis Proyectos</h3>
-
-<div align="center">
-
-| Proyecto | Descripción | Tecnologías |
-|----------|-------------|-------------|
-| [**📋 To-Do-App-API**](https://github.com/RitoTorri/To-Do-App-API) | API de gestión de tareas con autenticación JWT y Swagger | <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,prisma" width="120" /> |
-| [**🚚 API-Trans-Services**](https://github.com/RitoTorri/API-Trans-Services) | API para sistema de gestión de servicios de transporte | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,prisma" width="120" /> |
-| [**🐦 Flappy-Bird**](https://github.com/RitoTorri/Flappy-Bird) | Juego clásico implementado con JavaScript vanilla | <img src="https://skillicons.dev/icons?i=html,css,js" width="120" /> |
-
-</div>
-
 <br>
 
 <h3>📫 ¿Quieres Contactarme?</h3>
