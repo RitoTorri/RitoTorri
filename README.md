@@ -8,7 +8,7 @@
 <h3>💼 Sobre Mí</h3>
 <p>Soy un desarrollador backend enfocado en crear APIs y sistemas de software robustos y 100% confiables que se adapten a los requerimientos y necesidades de los clientes.</p>
  
-💡 <strong>Intereses:</strong> APIs REST, Bases de Datos, Sistemas Escalables</p>
+💡 <strong>Intereses:</strong> APIs REST, Bases de Datos.</p>
 
 <h3>🛠️ Stack Tecnológico</h3>
 <div align="center">
