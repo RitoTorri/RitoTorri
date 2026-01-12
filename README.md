@@ -38,7 +38,7 @@ y diseño de bases de datos íntegras, bien normalizadas y orientadas a la escal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,nodejs,bootstrap,js,html,css,cs,express,prisma,mysql,postgresql,git,notion,github" height="48" /><img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" width="48" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,html,css,cs,express,prisma,postgresql,git,notion,github" height="48" /><img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" width="48" />
 
 </div>
 
