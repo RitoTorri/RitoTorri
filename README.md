@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500px" height="250px">
+  <img src="https://www.xtrafondos.com/wallpapers/musica-lofi-finn-de-hora-de-aventura-9453.jpg" width="600px" height="300px">
 </div>
 
 <div align="center">
