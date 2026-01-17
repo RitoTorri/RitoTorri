@@ -6,9 +6,12 @@
   <h1>¡Hola 👋🏻 soy Jesús Cortez!</h1>
 </div>
 
-<p>Estudiante de informática enfocado en desarrollo backend, con experiencia en la creación de APIs REST 
-utilizando Node.js y Express. Trabajo con ORMs, documentación técnica mediante Swagger 
-y diseño de bases de datos íntegras, bien normalizadas y orientadas a la escalabilidad.</p>
+<p>
+Estudiante de informática con experiencia en el desarrollo e integración de APIs REST.
+Trabajo con TypeScript, Node.js y Express.js, utilizando ORMs como Prisma.
+Manejo bases de datos relacionales con PostgreSQL, documentación de APIs con Swagger
+y control de versiones con Git.
+</p>
 
 <div align="center"> 
 
@@ -17,7 +20,7 @@ y diseño de bases de datos íntegras, bien normalizadas y orientadas a la escal
 ## 🚀 Actualmente
 📚 Estudiando Informática  
 🔧 Desarrollando APIs REST  
-🧠 Aprendiendo arquitectura backend, Docker y buenas prácticas de desarrollo  
+🧠 Aprendiendo arquitectura backend, Docker y mejorando en bases de datos  
 💡 Intereses: APIs REST y bases de datos  
 
 </div>
@@ -34,13 +37,40 @@ y diseño de bases de datos íntegras, bien normalizadas y orientadas a la escal
 
 </div>
 
-## 🛠️ Lenguajes de Programación y herramientas
+## 🛠️ Stack de Trabajo
 
-<div align="center">
+<table width="100%" align="center" style="border-collapse: collapse;">
+  <tr>
+    <th style="border: 2px solid #444; padding: 10px;">Lenguajes</th>
+    <th style="border: 2px solid #444; padding: 10px;">Backend / Runtime</th>
+    <th style="border: 2px solid #444; padding: 10px;">Base de datos & ORM</th>
+    <th style="border: 2px solid #444; padding: 10px;">DevOps</th>
+    <th style="border: 2px solid #444; padding: 10px;">Control de versiones</th>
+    <th style="border: 2px solid #444; padding: 10px;">Documentación & Gestión</th>
+  </tr>
+  <tr>
+    <td style="border: 2px solid #444; padding: 10px;" align="center">
+      <img src="https://skillicons.dev/icons?i=js,typescript" height="50" />
+    </td>
+    <td style="border: 2px solid #444; padding: 10px;" align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
+    </td>
+    <td style="border: 2px solid #444; padding: 10px;" align="center">
+      <img src="https://skillicons.dev/icons?i=postgresql,prisma" height="50" />
+    </td>
+    <td style="border: 2px solid #444; padding: 10px;" align="center">
+      <img src="https://skillicons.dev/icons?i=docker" height="50" />
+    </td>
+    <td style="border: 2px solid #444; padding: 10px;" align="center">
+      <img src="https://skillicons.dev/icons?i=git,github" height="50" />
+    </td>
+    <td style="border: 2px solid #444; padding: 10px;" align="center">
+      <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" width="50" />
+      <img src="https://skillicons.dev/icons?i=notion" height="50" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,typescript,html,css,cs,express,prisma,docker,postgresql,git,notion,github" height="48" /><img src="https://cdn.simpleicons.org/swagger/85EA2D" height="48" width="48" />
-
-</div>
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
