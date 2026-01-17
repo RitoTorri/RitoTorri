@@ -7,23 +7,20 @@
 </div>
 
 <p>
-Estudiante de informática con experiencia en el desarrollo e integración de APIs REST.
-Trabajo con TypeScript, Node.js y Express.js, utilizando ORMs como Prisma.
-Manejo bases de datos relacionales con PostgreSQL, documentación de APIs con Swagger
-y control de versiones con Git.
+Estudiante de informática con experiencia en desarrollo e integración de APIs REST.
+Especializado en TypeScript, Node.js y Express.js, usando Prisma con PostgreSQL.
+Familiarizado con documentación de APIs con Swagger y control de versiones con Git.
 </p>
 
-<div align="center"> 
-
-</div>
-
 ## 🚀 Actualmente
-📚 Estudiando Informática  
-🔧 Desarrollando APIs REST  
-🧠 Aprendiendo arquitectura backend, Docker y mejorando en bases de datos  
-💡 Intereses: APIs REST y bases de datos  
+- 📚 Estudiando Informática
+- 🔧 Desarrollando APIs REST
+- 🧠 Aprendiendo arquitectura backend y Docker
+- 💡 Intereses: APIs REST y bases de datos 
 
-</div>
+## 📄 Mi CV y Contacto
+
+[📄 Ver mi CV completo](https://docs.google.com/document/d/1AlSKXHxl250wGYnoLvg0jigQ5jAA2S9X/edit?usp=sharing&ouid=110243669830058743010&rtpof=true&sd=true)
 
 ## 📫 Contáctame
 
