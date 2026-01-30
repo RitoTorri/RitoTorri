@@ -50,7 +50,7 @@ Familiarizado con documentación de APIs con Swagger y control de versiones con 
       <img src="https://skillicons.dev/icons?i=js,typescript" height="50" />
     </td>
     <td style="border: 2px solid #444; padding: 10px;" align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
+      <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,vue" height="50" />
     </td>
     <td style="border: 2px solid #444; padding: 10px;" align="center">
       <img src="https://skillicons.dev/icons?i=postgresql,prisma" height="50" />
