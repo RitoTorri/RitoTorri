@@ -63,7 +63,7 @@ Familiarizado con documentación de APIs con Swagger y control de versiones con 
     </td>
     <td style="border: 2px solid #444; padding: 10px;" align="center">
       <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" width="50" />
-      <img src="https://skillicons.dev/icons?i=notion" height="50" />
+      <img src="https://skillicons.dev/icons?i=notion,postman" height="50" />
     </td>
   </tr>
 </table>
