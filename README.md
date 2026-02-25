@@ -21,12 +21,12 @@ Especialista en el desarrollo de APIs REST eficientes. Mi stack principal incluy
 ## 🚀 Habilidades y tecnologias
 
 #### 🧠 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,express,nestjs,postgresql,mongo,docker" height="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,typescript,nestjs,express,postgresql,prisma,typeorm,mongodb" height="50" />
 </p>
 
 #### 🛠️ Herramientas y Plataformas
-<p align="left">
+<p align="center">
   <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" width="50" />
   <img src="https://skillicons.dev/icons?i=notion,postman,git,github" height="50" />
 </p>
