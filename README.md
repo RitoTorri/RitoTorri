@@ -3,9 +3,7 @@
 </div>
 
 <p>
-Programador Backend con experiencia en desarrollo e integración de APIs REST.
-Especializado en TypeScript, Node.js y Express.js, usando Prisma con PostgreSQL.
-Familiarizado con documentación de APIs con Swagger y control de versiones con Git.
+Especialista en el desarrollo de APIs REST eficientes. Mi stack principal incluye Node.js (Express/NestJS) y persistencia de datos con TypeORM/Prisma sobre PostgreSQL. Además, cuento con experiencia en documentación técnica con Swagger, gestión en Notion y flujo de trabajo colaborativo con Git.
 </p>
 
 ## 📫 Contáctame
@@ -20,14 +18,18 @@ Familiarizado con documentación de APIs con Swagger y control de versiones con 
 
 </div>
 
-## 🛠️ Habilidades y tecnologias
+## 🚀 Habilidades y tecnologias
 
-#### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,js,typescript,express,nestjs,postgresql,mongo,docker" height="50" />
+#### 🧠 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,express,nestjs,postgresql,mongo,docker" height="50" />
+</p>
 
-#### Herramientas y plataformas
-
-<img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" width="50" /><img src="https://skillicons.dev/icons?i=notion,postman,git,github" height="50" />
+#### 🛠️ Herramientas y Plataformas
+<p align="left">
+  <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" width="50" />
+  <img src="https://skillicons.dev/icons?i=notion,postman,git,github" height="50" />
+</p>
 
 ## 📊 Estadísticas de GitHub
 <div align="center">
