@@ -2,10 +2,6 @@
   <h1>¡Hola 👋🏻 soy Jesús Cortez!</h1>
 </div>
 
-<p>
-Especialista en el desarrollo de APIs REST eficientes. Mi stack principal incluye Node.js (Express/NestJS) y persistencia de datos con TypeORM/Prisma sobre PostgreSQL. Además, cuento con experiencia en documentación técnica con Swagger, gestión en Notion y flujo de trabajo colaborativo con Git.
-</p>
-
 ## 📫 Contáctame
 
 <div align="center">
