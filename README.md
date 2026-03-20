@@ -18,7 +18,7 @@
 
 #### 🧠 Backend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,express,nestjs,postgresql,mongo,docker" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,express,nestjs,react,vite,postgresql,mongo,docker" height="50" />
   <img src="https://skillicons.dev/icons?i=prisma" height="50" />
 <img src="https://cdn.simpleicons.org/typeorm/FE0808" height="50" width="50" />
 </p>
