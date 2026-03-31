@@ -1,5 +1,12 @@
 <div align="center">
   <h1>¡Hola 👋🏻 soy Jesús Cortez!</h1>
+
+  <p>
+    Desarrollador Backend con experiencia en el diseño e implementación de APIs REST,
+    así como en bases de datos relacionales y no relacionales.
+    Manejo de tecnologías como TypeScript, JavaScript, NestJS, Express, PostgreSQL y MongoDB.
+    Conocimientos en consultas SQL avanzadas, empaquetamiento y orquestación con Docker.
+  </p>
 </div>
 
 ## 📫 Contáctame
