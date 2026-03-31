@@ -29,9 +29,3 @@
    <img src="https://cdn.simpleicons.org/swagger/85EA2D" height="50" width="50" />
 <img src="https://cdn.simpleicons.org/typeorm/FE0808" height="50" width="50" />
 </p>
-
-## 📊 Estadísticas de GitHub
-<div align="center">
-    
-![Estadísticas de Jesús](https://github-readme-stats.vercel.app/api?username=RitoTorri&show_icons=true&theme=github_dark&border_color=FFFFFF&count_private=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=RitoTorri&layout=compact&theme=github_dark&border_color=FFFFFF)
