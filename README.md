@@ -23,6 +23,6 @@
 
 ## 🚀 Habilidades y tecnologias
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,express,react,vite,nestjs,postgresql,mongo,docker,git,github" height="50" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,html,css,express,react,nestjs,tailwind,postgresql,mongo,docker,git,github" height="50" />
 </p>
