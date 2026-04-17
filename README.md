@@ -1,4 +1,8 @@
 <div align="center">
+<img src="ilustracion-de-naruto_5120x2880_xtrafondos.com.jpg" width="800" height="400" alt="RitoTorri" />
+</div>
+
+<div align="center">
   <h1>¡Hola 👋🏻 soy Jesús Cortez!</h1>
 
   <p>
