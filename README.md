@@ -26,3 +26,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,html,css,express,react,nestjs,vite,tailwind,postgresql,mongo,docker,git,github" height="50" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitoTorri)](https://github.com/RitoTorri/github-readme-stats)
