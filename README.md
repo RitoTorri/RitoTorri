@@ -1,11 +1,9 @@
 <div align="center">
   <h1>¡Hola 👋🏻 soy Jesús Cortez!</h1>
+  <h3>Backend Developer | Data Architect</h3>
 
   <p>
-    Desarrollador Backend con experiencia en el diseño e implementación de APIs REST,
-    así como en bases de datos relacionales y no relacionales.
-    Manejo de tecnologías como TypeScript, JavaScript, NestJS, Express, PostgreSQL y MongoDB.
-    Conocimientos en consultas SQL avanzadas, empaquetamiento y orquestación con Docker.
+    <strong>Desarrollador Backend</strong> especializado en el ecosistema <strong>Node.js (JavaScript/TypeScript)</strong>, orientado al desarrollo de <strong>API REST</strong> y al diseño e implementación de <strong>bases de datos relacionales y no relacionales</strong>. Poseo experiencia trabajando con frameworks como <strong>NestJS y Express</strong>, y motores de bases de datos como <strong>PostgreSQL y MongoDB</strong>, priorizando siempre la optimización, seguridad e integridad de los datos.
   </p>
 </div>
 
@@ -24,7 +22,5 @@
 ## 🚀 Habilidades y tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,html,css,express,react,nestjs,vite,tailwind,postgresql,mongo,docker,git,github" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,html,css,express,react,nestjs,tailwind,postgresql,mongo,docker,git,github" height="50" />
 </p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RitoTorri)](https://github.com/RitoTorri/github-readme-stats)
