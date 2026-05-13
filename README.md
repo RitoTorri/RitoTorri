@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./musica-lofi-finn-de-hora-de-aventura_3840x2160_xtrafondos.com.jpg" alt="Logo" width="600" height="300">
+</div>
+
+<div align="center">
   <h1>¡Hola 👋🏻 soy Jesús Cortez!</h1>
   <h3>Backend Developer | Data Architect</h3>
 
