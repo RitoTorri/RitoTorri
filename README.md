@@ -4,7 +4,7 @@
 
 <div align="center">
   <h1>¡Hola 👋🏻 soy Jesús Cortez!</h1>
-  <h3>Backend Developer && TSU Informatica</h3>
+  <h3>Backend Developer & TSU Informatica</h3>
 
 <p>
   <strong>Desarrollador Backend</strong> especializado en el ecosistema <strong>Node.js (JavaScript/TypeScript)</strong>, con enfoque en el desarrollo de <strong>APIs REST</strong>, el diseño e implementación de <strong>bases de datos (relacionales y no relacionales)</strong>. Cuento con experiencia trabajando con frameworks como <strong>NestJS, Express, Laravel y React</strong>, además de motores de bases de datos como <strong>PostgreSQL y MongoDB</strong>, priorizando siempre la optimización, seguridad e integridad de los datos.
