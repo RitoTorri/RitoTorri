@@ -21,8 +21,8 @@
 
 </div>
 
-## 🚀 Habilidades y tecnologias
+## 🚀 Habilidades y tecnologías
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,php,html,css,express,react,nestjs,laravel,postgresql,mongo,docker,git,github,ubuntu" height="50" />
-</p>
+| Lenguajes | Frameworks y Librerías | Bases de Datos | Herramientas y DevOps |
+| :--- | :--- | :--- | :--- |
+| <img src="https://skillicons.dev/icons?i=js,typescript,php,html,css" height="35" /> | <img src="https://skillicons.dev/icons?i=express,react,nestjs,laravel,nextjs,tailwind" height="35" /> | <img src="https://skillicons.dev/icons?i=postgresql,mongo,redis" height="35" /> | <img src="https://skillicons.dev/icons?i=docker,git,github,ubuntu" height="35" /> |
