@@ -7,7 +7,7 @@
   <h3>Backend Developer & TSU Informatica</h3>
 
 <p>
-  <strong>Desarrollador Backend</strong> especializado en el ecosistema <strong>Node.js (JavaScript/TypeScript)</strong>, con enfoque en el desarrollo de <strong>APIs REST</strong>, el diseño e implementación de <strong>bases de datos (relacionales y no relacionales)</strong>. Cuento con experiencia trabajando con frameworks como <strong>NestJS, Express, Laravel y React</strong>, además de motores de bases de datos como <strong>PostgreSQL y MongoDB</strong>, priorizando siempre la optimización, seguridad e integridad de los datos.
+  <strong>Desarrollador Backend</strong> especializado en el ecosistema <strong>Node.js (JavaScript/TypeScript)</strong>, con enfoque en el diseño de <strong>APIs REST</strong> y la arquitectura de <strong>bases de datos (relacionales y no relacionales)</strong>. Cuento con experiencia trabajando con frameworks y librerías como <strong>NestJS, Express, Laravel, React, React Native y Next.js</strong>, así como con motores como <strong>PostgreSQL y MongoDB</strong> mediante el uso de ORMs para la optimización y construcción de consultas eficientes. Priorizo siempre la seguridad e integridad de los datos, empleando <strong>Docker</strong> y máquinas virtuales para garantizar un despliegue robusto y escalable en entornos de producción locales.
 </p>
 </div>
 
@@ -24,5 +24,5 @@
 ## 🚀 Habilidades y tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,php,html,css,express,react,nestjs,laravel,postgresql,mongo,docker,git,github" height="50" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,typescript,php,html,css,express,react,nestjs,laravel,postgresql,mongo,docker,git,github,ubuntu" height="50" />
 </p>
